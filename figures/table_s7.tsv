@@ -1,0 +1,23 @@
+variable	mutation	comparison	n	test	p	bc	literature
+onset	P102L	M/M vs. M/V vs. V/V	125 vs. 13 vs. 1	log-rank	0.18	1.0	
+onset	P102L	MM vs. MV vs. VV	125 vs. 32 vs. 1	log-rank	0.057	1.0	
+onset	D178N	M/M vs. M/V vs. V/M vs. V/V	133 vs. 18 vs. 9 vs. 13	log-rank	6.2e-05	0.0014	
+onset	D178N	MM vs. MV vs. VV	133 vs. 58 vs. 13	log-rank	1.8e-05	0.00040	
+onset	E200K	M/M vs. M/V vs. V/M vs. V/V	286 vs. 33 vs. 10 vs. 5	log-rank	0.13	1.0	
+onset	E200K	MM vs. MV vs. VV	288 vs. 92 vs. 5	log-rank	0.3	1.0	
+duration	P102L	M/M vs. M/V	89 vs. 8	log-rank	0.55	1.0	
+duration	P102L	MM vs. MV	89 vs. 21	log-rank	0.93	1.0	
+duration	D178N	M/M vs. M/V vs. V/M vs. V/V	62 vs. 13 vs. 8 vs. 10	log-rank	8.1e-05	0.0018	
+duration	D178N	MM vs. MV vs. VV	62 vs. 33 vs. 10	log-rank	1.0e-07	2.2e-06	
+duration	E200K	M/M vs. M/V vs. V/M vs. V/V	208 vs. 21 vs. 6 vs. 5	log-rank	0.10	1.0	
+duration	E200K	MM vs. MV vs. VV	210 vs. 50 vs. 5	log-rank	0.031	0.68	
+onset	P102L	parent vs. child	32	linear regression	0.44	1.0	
+onset	D178N	parent vs. child	15	linear regression	0.12	1.0	
+onset	E200K	parent vs. child	34	linear regression	0.35	1.0	
+onset	top three	men vs. women	446 vs. 492	Cox	0.22	1.0	
+duration	top three	men vs. women	264 vs. 281	linear regression	0.023	0.51	
+onset	top three	direct vs. indirect ascertainment	843 vs. 251	Cox	0.78	1.0	
+duration	top three	direct vs. indirect ascertainment	543 vs. 88	linear regression	0.64	1.0	
+onset	top three	year of birth	697	linear regression	3.6e-49	7.9e-48	
+onset	top three	study centers	973	two-way ANOVA	0.012	0.26	
+onset	top three	year of onset	697	linear regression	0.00032	0.0070	

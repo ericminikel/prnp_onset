@@ -1,0 +1,70 @@
+variant	segregation	de_novo	homozygote_observed	enrichment	case_count
+P39L					0
+2-OPRD					0
+1-OPRI					6
+2-OPRI					6
+3-OPRI					1
+4-OPRI					20
+5-OPRI	x				28
+6-OPRI	x				52
+7-OPRI	x				3
+8-OPRI	x				10
+9-OPRI	x				4
+12-OPRI	x				0
+P84S					1
+S97N					0
+P102L	x			x	221
+P105L	x				13
+P105S					1
+P105T	x				5
+G114V	x				1
+A117V	x			x	25
+129insLGGLGGYV		x			0
+G131V					0
+S132I	x				1
+A133V					2
+Y145X					0
+R148H					3
+R156C					0
+Q160X	x				1
+Y162X	x				0
+Y163X	x				2
+D167G					1
+D167N					0
+Y169X	x				0
+V176G					1
+D178Efs25X	x				0
+D178N	x	x		x	209
+V180I				x	229
+T183A	x				3
+H187R	x				7
+T188A					1
+T188K					3
+T188R					12
+T193I					0
+K194E					0
+E196A					1
+E196K	x				13
+F198S	x				5
+F198V					0
+E200G					1
+E200K	x		x	x	571
+T201S					0
+D202G	x				0
+D202N					0
+V203I			x		16
+R208C					0
+R208H					15
+V210I				x	247
+E211D	x				1
+E211Q					11
+Q212P			x		2
+I215V					1
+Q217R					0
+Y218N	x				1
+A224V					1
+Y226X					0
+Q227X					0
+M232R				x	67
+M232T					0
+P238S					0
