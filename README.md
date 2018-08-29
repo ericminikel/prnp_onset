@@ -10,3 +10,4 @@ The source code in `public_dataset_analysis.R` accepts the life tables as input 
 
 Tables S1 and S4 are based on literature review and are not derived computationally, thus, these are provided in the manuscript supplement but not anywhere in the source code. 
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
