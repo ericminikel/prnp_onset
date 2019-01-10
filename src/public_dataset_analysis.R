@@ -165,9 +165,16 @@ napoleon_plot = function(mutlist) {
   
 }
 
+
+
 pdf('figures/figure_1.pdf', width=8, height=4)
 napoleon_plot(c('E200K','P102L','D178N'))
+thickness_legend = data.frame(prop=c(.01,.03,.10))
+thickness_legend$lwd = 100 * thickness_legend$prop * max(mutprev$proportion)
+legend(x=0,y=.255,xpd=T,legend=percent(thickness_legend$prop),lwd=thickness_legend$lwd,title='proportion surviving',bty='n',bg='white',horiz=T)
 dev.off()
+
+
 
 # an alternate version at same aspect ratio but with all 7 mutations
 # I use this sometimes in presentations of this work
