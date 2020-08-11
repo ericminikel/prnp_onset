@@ -1,6 +1,6 @@
 This respoitory holds code and results for our study of age of onset in genetic prion disease:
 
-[Minikel et al, 2018. **Age of onset in genetic prion disease and the design of preventive clinical trials.** bioRxiv 401406; doi: https://doi.org/10.1101/401406](http://biorxiv.org/content/early/2018/08/29/401406)
+[Minikel EV, Vallabh SM, Orseth MC, Brandel J-P, Haïk S, Laplanche J-L, Zerr I, Parchi P, Capellari S, Safar J, Kenny J, Fong JC, Takada LT, Ponto C, Hermann P, Knipper T, Stehmann C, Kitamoto T, Ae R, Hamaguchi T, Sanjo N, Tsukamoto T, Mizusawa H, Collins SJ, Chiesa R, Roiter I, de Pedro-Cuesta J, Calero M, Geschwind MD, Yamada M, Nakamura Y, Mead S. **Age at onset in genetic prion disease and the design of preventive clinical trials.** _Neurology_. 2019 Jun 6; PMID: 31171647](https://pubmed.ncbi.nlm.nih.gov/31171647/). [[bioRxiv preprint](http://biorxiv.org/content/early/2018/08/29/401406)]
 
 This repository includes the following:
 
